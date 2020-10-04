@@ -1,6 +1,6 @@
 # minibot
 
-1. Download this hex file into your folder C:\Users\<username>\Downloads
+1. Download the hex file bot33_mini_bot.ino.hex into your folder C:\Users\<username>\Downloads
 2. Find the port name by looking up at the Arduino IDE. 
      - Use USB cable to connect Arduino Board to your PC
      - click on the IDE top window menu "Tools" and click the "port" to see Arduino Board port name

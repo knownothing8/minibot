@@ -1,4 +1,13 @@
 # minibot
+
+Mini Bot Droid Assembly
+========================
+Folloing our assembly video in our youtube channcel 
+
+https://youtube.com/channel/UCbDUtpA_nRJQxKDm8p83xcg
+
+Re-install Mini Bot Droid program: 
+==================================
 If Mini Bot was reloaded with other example programs, the origin Mini Bot Droid program will be erased. You can re-install the binary by following steps.   
 
 1. Download the hex file bot33_mini_bot.ino.hex into your folder C:\Users\<username>\Downloads
